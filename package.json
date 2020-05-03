@@ -1,0 +1,28 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivalynx/ajs-working-enviroment-eslint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ivalynx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivalynx/ajs-working-enviroment-eslint/issues"
+  },
+  "homepage": "https://github.com/ivalynx/ajs-working-enviroment-eslint#readme"
+}
